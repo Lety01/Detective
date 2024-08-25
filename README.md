@@ -24,8 +24,8 @@ Visualizes the input image, predicted digit, and true label.
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/mnist-digit-classifier.git
-   cd mnist-digit-classifier` 
+   git clone https://github.com/yourusername/detective.git
+   cd detective` 
 
 2.  **Create and activate a virtual environment**:
     
