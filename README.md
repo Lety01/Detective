@@ -51,6 +51,9 @@ Visualizes the input image, predicted digit, and true label.
     `python src/predict.py` 
     
 3.  **Example output**: The script will display an image of a digit along with the predicted label and the true label:
+   
+   ![image](https://github.com/user-attachments/assets/83d62bb7-34a7-4aec-abf9-2046e6a23858)
+
     
 
 ## 📚 Learnings
@@ -69,6 +72,6 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 
 ## 📧 Contact
 
-For any questions or suggestions, feel free to contact me at your-email@example.com.
+For any questions or suggestions, feel free to contact me at letiziagrasso01@gmail.com.
 
 
